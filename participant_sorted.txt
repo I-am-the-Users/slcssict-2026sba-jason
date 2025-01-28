@@ -1,0 +1,14 @@
+The list of player information:
+Name, School, School Abbreviation, Flag of Seed Player
+Name: Joe Chan          School: ABC School              School Abbreviation: ABCS               Flag of Seed Player: T
+Name: Peter Ng          School: ABC School              School Abbreviation: ABCS               Flag of Seed Player: T
+Name: Zoe Tam           School: Holly School            School Abbreviation: HS         Flag of Seed Player: F
+Name: Ian Lam           School: Holly School            School Abbreviation: HS         Flag of Seed Player: F
+Name: Wendy Ong         School: King School             School Abbreviation: KS         Flag of Seed Player: F
+Name: Karen Chu         School: Lok Lok School          School Abbreviation: LLS                Flag of Seed Player: T
+Name: Lily Ng           School: Lok Lok School          School Abbreviation: LLS                Flag of Seed Player: F
+Name: Tammy Kwan                School: Python School           School Abbreviation: PS         Flag of Seed Player: F
+Name: Danny Chung               School: Sky School              School Abbreviation: SKYS               Flag of Seed Player: F
+Name: Ann Lee           School: Sky School              School Abbreviation: SKYS               Flag of Seed Player: F
+Name: Ellen Yu          School: Ying Ying School                School Abbreviation: YYS                Flag of Seed Player: F
+Name: Franky Chan               School: Ying Ying School                School Abbreviation: YYS                Flag of Seed Player: T
